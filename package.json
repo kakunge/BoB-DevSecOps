@@ -55,7 +55,7 @@
     "grunt": "^1.5.3",
     "grunt-cli": "^0.1.13",
     "grunt-compare-size": "^0.4.0",
-    "grunt-contrib-clean": "^0.6.0",
+    "grunt-contrib-clean": "^2.0.1",
     "gulp": "^3.9.0",
     "gulp-babel": "^6.0.0",
     "gulp-flatten": "^0.2.0",
